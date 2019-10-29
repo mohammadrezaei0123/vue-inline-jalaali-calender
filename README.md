@@ -1,1 +1,0 @@
-# vue-inline-jalaali-calender
